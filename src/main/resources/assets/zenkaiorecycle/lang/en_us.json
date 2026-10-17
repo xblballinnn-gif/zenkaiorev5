@@ -1,0 +1,6 @@
+{
+  "key.zenkaiorecycle.loop": "Start / stop the ore loop",
+  "key.zenkaiorecycle.stop": "Stop ore cycle (Baritone #stop)",
+  "key.zenkaiorecycle.clean": "Drop unwanted main-inventory items",
+  "key.categories.zenkaiorecycle": "Zenkai Ore Cycle"
+}

@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[48,)"
+license="MIT"
+
+[[mods]]
+modId="zenkaiorecycle"
+version="0.1.0"
+displayName="Zenkai Ore Cycle"
+displayTest="IGNORE_ALL_VERSION"
+description='''
+Client helper for Baritone coal/gold mining and inventory cleanup.
+'''
+
+[[dependencies.zenkaiorecycle]]
+    modId="forge"
+    mandatory=true
+    versionRange="[48,)"
+    ordering="NONE"
+    side="CLIENT"
+
+[[dependencies.zenkaiorecycle]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.2,1.20.3)"
+    ordering="NONE"
+    side="CLIENT"
